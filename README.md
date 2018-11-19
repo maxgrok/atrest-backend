@@ -1,24 +1,14 @@
 # README
+This is the backend to the React front end component for atRest MVP. 
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Rails 5.2 JSON API. 
 
-Things you may want to cover:
+## How to Run
 
-* Ruby version
+run 'rails s' while inside of the project directory. 
 
-* System dependencies
+## Contributors
+submit pull requests
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+## License
+MIT License '18
